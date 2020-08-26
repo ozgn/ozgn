@@ -1,6 +1,14 @@
 ![](https://raw.githubusercontent.com/ozgn/ozgn/master/assets/header.svg)
 
-### <center>Hi there 👋</center>
+<h3 align="center">Hi there 👋</h3>
 
-<center>I'm Özgün <br> I work as a Back-End Developer at [FIXER](https://fixer.com.tr "FIXER")<br>Also i'm speaker at [Junior Talks](https://open.spotify.com/show/3kwM7aPW2VMZVayp6p0oP1 "Junior Talks")
-</center>
+<p align="center">
+	I'm Özgün
+</p>
+<div align="center">
+	<p>I work as a Back-End Developer at <a href="https://fixer.com.tr">FIXER</a></p>
+</div>
+
+<div align="center">
+	<p>Also i'm speaker at <a href="https://open.spotify.com/show/3kwM7aPW2VMZVayp6p0oP1">Junior Talks</a></p>
+</div>
